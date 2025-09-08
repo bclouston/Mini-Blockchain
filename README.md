@@ -9,9 +9,9 @@ If an attacker attempts to alter a past block, its hash changes and breaks the c
 ## How to run:
 ### Dependiencies: Node.js
 
-With your terminal opened to the directory containing blockchainv1.js enter:
+With your terminal opened to the directory containing blockchain_v1.js enter:
 
-    node blockchainv1.js
+    node blockchain_v1.js
 
 ## Screenshots
 <img width="1070" height="488" alt="Screenshot 2025-09-07 at 11 18 52 PM" src="https://github.com/user-attachments/assets/253a65a0-c30c-49d0-a7f3-707fb86a7d2c" />
